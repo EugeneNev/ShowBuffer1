@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Show Buffer</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Settings</string>
+    <string name="title_activity_about">About</string>
+    <string name="about">\This is a TV Guide that will be the end of all TV Guides. Watch this space innit</string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>
